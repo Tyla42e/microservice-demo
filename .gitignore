@@ -1,3 +1,6 @@
+OrderService/bin/*
+OrderService/obj/*
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
